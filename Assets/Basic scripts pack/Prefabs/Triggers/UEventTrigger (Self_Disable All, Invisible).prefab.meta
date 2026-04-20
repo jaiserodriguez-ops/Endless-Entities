@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d6c346cb05415a4280018408ea9919d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306227
+  packageName: Basic Scripts Pack
+  packageVersion: 1.1
+  assetPath: Assets/Basic scripts pack/Prefabs/Triggers/UEventTrigger (Self_Disable
+    All, Invisible).prefab
+  uploadId: 814982
